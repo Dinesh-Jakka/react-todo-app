@@ -4,6 +4,8 @@
 
 This project is a simple To-Do application built using ReactJS. It allows users to add, view, edit, and delete tasks. The application demonstrates the use of React functional components, hooks, and state management with Redux. It also employs styled-components for styling the UI.
 
+## Deployment link : https://react-todo-app-48d1.onrender.com
+
 ## Features
 
 - Add a new task
